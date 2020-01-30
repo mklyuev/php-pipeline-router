@@ -1,4 +1,4 @@
-Php Pipeline Router
+PHP PIPELINE ROUTER
 =======================================
 
 Router with pipelines for php projects. Working with PHP-DI & HttpFoundation from Symfony.
